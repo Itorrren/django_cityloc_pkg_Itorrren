@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: django-cityloc-pkg-Itorrren
+Version: 0.0.1
+Summary: A Django app about city locations
+Author: Author Name
+Author-email: authoremail@example.com
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 3.2
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.8
+Description-Content-Type: text/x-rst
+License-File: LICENSE.txt
+Requires-Dist: Django>=3.2
+
+No README.rst file found.
